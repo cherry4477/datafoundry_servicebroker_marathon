@@ -1,0 +1,12 @@
+export ETCDENDPOINT="http://192.168.99.100:2379"
+export ETCDUSER="asiainfoLDP"
+export ETCDPASSWORD="6ED9BA74-75FD-4D1B-8916-842CB936AC1A"
+export BROKERPORT="8000"
+export MARATHONURL="http://10.1.235.96:5098"
+
+
+
+
+
+//aws客户端还需要额外两个环境变量
+
